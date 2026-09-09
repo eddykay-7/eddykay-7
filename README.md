@@ -27,7 +27,7 @@ I'm a passionate and aspiring **Frontend Developer** with experience in **HTML, 
 ### [Meta Intro to Front-End Assignment] 
 
 This is a basic webpage structure built with **HTML** & **CSS**. This project demonstrates my ability to **employ HTML & CSS inside VS Code to build a webpage**. You can check out the repository below.
-* **Live Demo:** [View Live Website](https://eddykay-7.github.io/project/)
+* **Live Demo:** [View Live Website](https://github.com/eddykay-7/project)
 * **Source Code:** [GitHub Repository](https://github.com/eddykay-7/project)
 
 
