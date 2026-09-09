@@ -24,16 +24,16 @@ I'm a passionate and aspiring **Frontend Developer** with experience in **HTML, 
 
 ## Featured Projects 💻
 
-### [Project](project_1_link) Meta Intro to Front-End Assignment
+### [Meta Intro to Front-End Assignment](project_1_link) 
 
-This a basic webpage structure built with **HTML** & **CSS**. This project demonstrates my ability to **employ HTML & CSS inside VS Code to build a webpage**. You can check out the repository [here](project_1_repository_link).
+This is a basic webpage structure built with **HTML** & **CSS**. This project demonstrates my ability to **employ HTML & CSS inside VS Code to build a webpage**. You can check out the repository below.
 * **Live Demo:** [View Live Website](https://eddykay-7.github.io/project/)
 * **Source Code:** [GitHub Repository](https://github.com/eddykay-7/project)
 
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**((https://www.linkedin.com/in/edwin-adu-adjei/)
+- **[LinkedIn]:** [Here]((https://www.linkedin.com/in/edwin-adu-adjei/)
 - **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[Twitter]**(your_twitter_profile_link)
 
